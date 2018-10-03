@@ -1,2 +1,2 @@
 # Pokemon_C
-Pokemon game as Homework in C++ language
+Pokemon game as Homework in C language
